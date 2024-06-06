@@ -97,7 +97,7 @@ Updated Index.cshtml in Views/Movies to add search by genre
 
 Hurray..I got the search by genre bar
 
-Partr 8
+Part 8
 
 1439
 
@@ -115,4 +115,4 @@ Now in Package Manager Controller by adding migration rating, Updated the Databa
 
 Finally..:) Got the Rating column 
 
-wwqewqe
+
