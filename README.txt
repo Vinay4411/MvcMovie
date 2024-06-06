@@ -115,4 +115,27 @@ Now in Package Manager Controller by adding migration rating, Updated the Databa
 
 Finally..:) Got the Rating column 
 
+Part 9
 
+1510
+
+validation rules for movie model
+
+For data types, I validated the UI with possible inputs
+Test successful, Noticed how the form has automatically rendered an appropriate
+validation error message in each field containing an invalid value. 
+
+Part 10
+
+Examined the movie controller
+Examined the program.cs files
+
+1530
+
+Created the Github account 
+Cloned it in VS22
+Pushed project 'MvcMovie' to github
+Made my github repository private to public 
+Done checking with my friend to access my github link..its working..
+
+Thank you..
