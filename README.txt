@@ -5,17 +5,25 @@ no auth, .....
 SSL cert SH-1
 
 1530
+
 Tested and modified the app....
 All good
 
 1620
-Started Part 2, Added a controller. Have tested two different controller methods and confirmed by running the app in browser, got output.
+
+Part 2
+
+Added a controller. Have tested two different controller methods and confirmed by running the app in browser, got output.
 
 2024-05-16
 
 1400
 
-Started Part 3, Added a view, created a folder and named HelloWorld under view. Added a New item in Hello World, that is Razor View - Empty, Name box value- Index.cshtml.   
+Part 3
+
+Added a view, created a folder and named HelloWorld under view. 
+
+Added a New item in Hello World, that is Razor View - Empty, Name box value- Index.cshtml.   
 
 1430
 
@@ -37,7 +45,7 @@ https://localhost:7090/HelloWorld/Raju?name=Vinni&ID=123
 
 202405231500
 
-Part 3
+1525
 
 https://localhost:7090/Home/Privacy
 Successfully got Privacy Policy
@@ -114,6 +122,8 @@ Showing as  SqlException: Invalid column name 'Rating'
 Now in Package Manager Controller by adding migration rating, Updated the Database.
 
 Finally..:) Got the Rating column 
+
+20240606190134_Rating
 
 Part 9
 
